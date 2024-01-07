@@ -3,7 +3,7 @@
 👋 - I'm Gayathri Ravipati, a curious individual who enjoys discovering new things.  
 👩‍🎓 - Currently pursuing a Master's in Computer Science with expected graduation on May 2024.  
 👀 - I'm actively looking for full-time software engineer opportunities starting June 2024.     
-💬 - Always eager to interact and collaborate with diverse minds, please drop me a message for a quick chat or any interesting opportunities([gayathri.ravipati@rutgers.edu](gayathri.ravipati@rutgers.edu)).
+💬 - Always eager to interact and collaborate with diverse minds, please drop me an email for a quick chat or any interesting opportunities([gayathri.ravipati@rutgers.edu](gayathri.ravipati@rutgers.edu)).
 
 <!--
 **gayathriravipati/gayathriravipati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
