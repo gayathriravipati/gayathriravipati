@@ -6,8 +6,8 @@
 💬 - Always eager to interact and collaborate with diverse minds, please drop me an email for a quick chat or any interesting opportunities([gayathri.ravipati@rutgers.edu](gayathri.ravipati@rutgers.edu)).
 
 Tech Stack:
-- Programming Languages: Python, Java, C++, HTML, CSS, XML, JavaScript, React, Node.JS
-- Frameworks: Ruby on Rails, Robot Framework, Spring Boot, Express.js, Flask
+- Programming Languages: Python, Java, C++, HTML, CSS, XML, JavaScript, React, Node.js
+- Frameworks: Ruby on Rails, Robot Framework, Spring Boot, Flask
 - Databases: MySQL, PostgreSQL, MongoDB, SQLite
 - Operating Systems: Linux, MacOS
 - Miscellaneous: Git, Tableau, PySpark, Kafka, AWS, Docker, Kubernetes, Postman, REST API, CI/CD, Jenkins
