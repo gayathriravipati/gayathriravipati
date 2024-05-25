@@ -6,11 +6,11 @@
 💬 - Always eager to interact and collaborate with diverse minds, please drop me an email for a quick chat or any interesting opportunities([gayathri.ravipati@rutgers.edu](gayathri.ravipati@rutgers.edu)).
 
 Tech Stack:
-Programming Languages: Python, Java, C++, HTML, CSS, XML, JavaScript, React, Node.JS
-Frameworks: Ruby on Rails, Robot Framework, Spring Boot, Express.js, Flask
-Databases: MySQL, PostgreSQL, MongoDB, SQLite
-Operating Systems: Linux, MacOS
-Miscellaneous: Git, Tableau, PySpark, Kafka, AWS, Docker, Kubernetes, Postman, REST API, CI/CD, Jenkins
+- Programming Languages: Python, Java, C++, HTML, CSS, XML, JavaScript, React, Node.JS
+- Frameworks: Ruby on Rails, Robot Framework, Spring Boot, Express.js, Flask
+- Databases: MySQL, PostgreSQL, MongoDB, SQLite
+- Operating Systems: Linux, MacOS
+- Miscellaneous: Git, Tableau, PySpark, Kafka, AWS, Docker, Kubernetes, Postman, REST API, CI/CD, Jenkins
 
 <!--
 **gayathriravipati/gayathriravipati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
